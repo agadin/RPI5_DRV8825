@@ -16,7 +16,7 @@ authors = [
 license = { text = "Unlicense" }
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: Unlicense",
+    "License :: Public Domain",
     "Operating System :: Raspbian"
 ]
 requires-python = ">=3.6"
