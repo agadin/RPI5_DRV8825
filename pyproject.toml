@@ -7,7 +7,7 @@ name = "RPI5_DRV8825"
 version = "1.0.0"
 description = "An updated DRV8825 stepper motor driver library for Raspberry Pi 5"
 readme = "README.md"
-readme-content-type = "text/markdown"
+readme.content-type = "text/markdown"
 dependencies = [
   "lgpio"
 ]
@@ -24,4 +24,3 @@ requires-python = ">=3.6"
 
 [project.urls]
 Homepage = "https://github.com/agadin/RPI5_DRV8825"
-
