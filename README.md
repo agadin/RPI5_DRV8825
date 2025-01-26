@@ -1,6 +1,6 @@
 
 # Overview
-An updated DRV8825 stepper motor driver library for Raspberry Pi 5. This library is a fork of the original [DRV8825 library](https://www.waveshare.com/wiki/Stepper_Motor_HAT) and switches RPI.GPIO to lgpio to be compatible with Raspberry Pi 5.
+An updated DRV8825 stepper motor driver library for Raspberry Pi 5. This library is a fork of the original [DRV8825 library](https://www.waveshare.com/wiki/Stepper_Motor_HAT) and switches RPI.GPIO to lgpio to be compatible with Raspberry Pi 5. Useful for using the wave share stepper motor driver with Raspberry Pi 5.
 
 * [Introduction](#introduction)
 * [Installation](#installation)
