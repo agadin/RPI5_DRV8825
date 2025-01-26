@@ -11,7 +11,7 @@ dependencies = [
   "lgpio"
 ]
 authors = [
-    { name = "Alexandru Gadin", email = "112425293+agadin@users.noreply.github.com" }
+    { name = "Alexander Gadin", email = "112425293+agadin@users.noreply.github.com" }
 ]
 license = { text = "Unlicense" }
 classifiers = [
