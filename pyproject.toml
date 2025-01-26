@@ -23,4 +23,4 @@ requires-python = ">=3.6"
 Homepage = "https://github.com/agadin/RPI5_DRV8825"
 
 [project.dependencies]
-lgpio = "*"
+dependencies = ["lgpio"]
